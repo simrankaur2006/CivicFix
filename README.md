@@ -1,6 +1,6 @@
 # CivicFix — Smart Public Issue Reporting & Resolution Platform
 
-B.Tech minor project MVP. React + Vite + Tailwind frontend, Node/Express + MongoDB backend, FastAPI mock AI service, Clerk authentication, Cloudinary image storage, Leaflet/OpenStreetMap maps, Recharts analytics.
+
 
 ## Structure
 ```
